@@ -4,4 +4,6 @@ public abstract class Shape {
     int x;
     int y;
     private String borderStyle;
+
+    String color = "red";
 }
